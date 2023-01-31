@@ -10,7 +10,7 @@ This was a challenge given by our bootcamp instructors
 
 ## Instalation
 
-To install this code, simply click on the url to my repository [https://github.com/steevensalony/password-generator] and clone the ssh key to your local machine. 
+To install this code, simply click on the url to my repository [https://github.com/steevensalony/work-day-scheduler] and clone the ssh key to your local machine. 
 this is also the link to the website https://steevensalony.github.io/work-day-scheduler/
 
 ## Usage
