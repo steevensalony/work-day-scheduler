@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![03-javascript-homework-demo](https://user-images.githubusercontent.com/108702715/213046736-f549a639-a8d5-478b-9d0d-680398a489b4.png)
+![14401488-490C-4DE4-A4D9-7E9CF27A66DF](https://user-images.githubusercontent.com/108702715/215644050-41632420-06fc-4f07-be08-6fd7aaea8c42.jpeg)
 
 ## Description
 
