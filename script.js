@@ -17,15 +17,11 @@ $(document).ready(function () {
 
       if (currentTime > timeBlock) {
         $(this).addClass("past");
-        $(this).removeClass('present')
-        $(this).removeClass('future')
-      } else if (currentTime === timeBlock) {
-        $(this).removeClass("past");
+      }
+      if (currentTime === timeBlock) {
         $(this).addClass('present')
-        $(this).removeClass('future')
-      } else {
-        $(this).removeClass("past");
-        $(this).removeClass('present')
+      }
+      if (currentTime < timeBlock) {
         $(this).addClass('future')
       }
     })
