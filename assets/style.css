@@ -1,6 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-color: teal;
 }
 
 textarea {
@@ -25,18 +26,18 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #b78d21;
   color: #000000;
   border-top: 1px dashed #000000;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #a79e9e;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #b10b0b;
   color: white;
 }
 
